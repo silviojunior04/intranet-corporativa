@@ -24,7 +24,7 @@ O sistema conta com uma área administrativa para gerenciamento dos dados, possi
 
 ## Observação sobre dados
 
-Este pacote foi higienizado para uso público no GitHub:
+Este pacote foi limpo para uso público no GitHub:
 
 - Dados reais removidos do banco
 - Logos e marcas removidas
@@ -78,13 +78,14 @@ VALUES ('Administrador', 'admin', 'HASH_GERADO_AQUI');
 ├── admin/          # Área administrativa do sistema
 ├── assets/         # Arquivos de imagem, ícones e recursos visuais
 ├── config/         # Arquivos de configuração do projeto
+├── screenshots/    # Prints de demonstração do projeto
 ├── partials/       # Componentes reutilizáveis da interface
 ├── uploads/        # Diretório para arquivos enviados
 ├── index.php       # Página principal
 ├── style.css       # Estilos principais
 ├── script.js       # Scripts JavaScript
 └── database.sql    # Estrutura inicial do banco de dados
-
+```
 ## 📸 Prévia do Projeto
 
 ### Tela inicial
@@ -99,5 +100,5 @@ VALUES ('Administrador', 'admin', 'HASH_GERADO_AQUI');
 ### Aba gerenciamento PopUps
 ![Aba gerenciamento Popups](./screenshots/aba-gerenciamento-popups-avisos.png)
 
-### exemplo PopUp
+### Exemplo PopUp
 ![Exemplo PopUp](./screenshots/demonstracao-popup.png)
