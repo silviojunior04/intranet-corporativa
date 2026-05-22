@@ -84,3 +84,20 @@ VALUES ('Administrador', 'admin', 'HASH_GERADO_AQUI');
 ├── style.css       # Estilos principais
 ├── script.js       # Scripts JavaScript
 └── database.sql    # Estrutura inicial do banco de dados
+
+## 📸 Prévia do Projeto
+
+### Tela inicial
+![Tela inicial da intranet](./screenshots/aba-home.png)
+
+### Painel administrativo
+![Painel administrativo](./screenshots/aba-admin.png)
+
+### Painel gerenciamento ramais
+![Versão ramais](./screenshots/aba-gerenciamento-ramais.png)
+
+### Aba gerenciamento PopUps
+![Aba gerenciamento Popups](./screenshots/aba-gerenciamento-popups-avisos.png)
+
+### exemplo PopUp
+![Exemplo PopUp](./screenshots/demonstracao-popup.png)
